@@ -1,5 +1,5 @@
 # 🚀 Coding Challenges & Engineering Portfolio
-
+> **Check out my verified progress:** [Exercism Profile](https://exercism.org/profiles/RaulC0007)
 This repository serves as a centralized hub for my ongoing coding challenges, algorithmic exercises, and backend projects. My focus is on mastering core programming paradigms, data structures, and software architecture.
 
 ## 🛠️ Tech Stack & Distribution
