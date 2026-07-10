@@ -1,16 +1,29 @@
 # 🚀 Coding Challenges & Engineering Portfolio
 
-Este repositorio contiene mis soluciones a diversos retos de programación y mis proyectos de arquitectura de software.
+This repository serves as a centralized hub for my ongoing coding challenges, algorithmic exercises, and backend projects. My focus is on mastering core programming paradigms, data structures, and software architecture.
 
-## 🛠️ Tecnologías Dominadas
-- **Backend & Web:** JavaScript (Node.js), PHP.
-- **Data & Infra:** SQLite, R, PowerShell, Rust.
-- **Arquitectura:** Enfocado en sistemas escalables y desarrollo de APIs.
+## 🛠️ Tech Stack & Distribution
+The current composition of this repository reflects my multi-language learning journey:
 
-## 📂 Estructura
-- `/javascript`: Ejercicios de lógica y algoritmos enfocados en el track de Exercism.
-- `/infrastructure`: Automatización con PowerShell y gestión de datos con SQLite.
-- `/backend-projects`: Proyectos reales integrando arquitecturas distribuidas (Cloud/BaaS).
+- **Python:** 20.2%
+- **Java:** 20.2%
+- **PHP:** 19.4%
+- **TypeScript:** 16.7%
+- **Ruby:** 12.4%
+- **JavaScript:** 11.1%
 
-## 📊 Progreso en Exercism
-Actualmente he completado más del 60% del track de JavaScript y sigo expandiendo mis conocimientos en sistemas distribuidos y bases de datos.
+## 📂 Repository Structure
+Solutions are categorized by language to facilitate easy navigation and code review:
+
+- `/solutions/java`: Object-oriented programming and data structures.
+- `/solutions/javascript`: Algorithmic logic and web development challenges.
+- `/solutions/php`: Server-side logic and validation projects.
+- `/solutions/python`: Data analysis and scripting foundations.
+- `/solutions/ruby`: Functional programming and clean code patterns.
+- `/solutions/typescript`: Type-safe application development.
+
+## 🎯 Focus & Goals
+I am currently sharpening my skills in **distributed systems, backend architecture, and GenAI integrations**. My goal is to bridge the gap between solving individual coding challenges and building scalable, enterprise-grade applications.
+
+---
+*Built with passion and commitment to continuous learning.*
